@@ -4,6 +4,8 @@ Organizations often store data across multiple systems and file formats, making 
 
 This project demonstrates an end-to-end Data Engineering solution built on Databricks to ingest, process, transform, and analyze data from multiple sources using a modern Lakehouse architecture.
 
+![Dashboard Screenshot](Overview.png)
+
 ## Problem Statement
 
 * Business data exists across multiple systems and formats.
