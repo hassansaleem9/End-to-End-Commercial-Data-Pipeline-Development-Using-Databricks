@@ -58,18 +58,9 @@ A semantic layer was created using Databricks Metric Views to define:
 
 ### Dimensions
 
-* Customer
-* Product
-* Region
-* Sales Channel
-* Time
 
 ### Measures
 
-* Revenue
-* Order Count
-* Average Order Value
-* Customer Metrics
 
 This provides a governed and reusable business layer for analytics and AI-powered querying.
 
