@@ -58,8 +58,26 @@ A semantic layer was created using Databricks Metric Views to define:
 
 ### Dimensions
 
+*Transaction Date
+*Year
+*Quarter
+*Month
+*Product Category
+*Brand
+*Payment Mode
+*Sales Channel
+*Opportunity Stage
+*Customer Type
+
 
 ### Measures
+
+*Transaction Count
+*Total Revenue
+*Total Quantity
+*Total Discount
+*Avg Transaction Value
+*Unique Customers
 
 
 This provides a governed and reusable business layer for analytics and AI-powered querying.
