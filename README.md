@@ -1,7 +1,5 @@
 # End-to-End-Commercial-Data-Pipeline-Development-Using-Databricks
 
-## Project Overview
-
 Organizations often store data across multiple systems and file formats, making unified analytics difficult. Commercial data is frequently distributed across disconnected platforms, creating data silos that limit visibility and data-driven decision-making.
 
 This project demonstrates an end-to-end Data Engineering solution built on Databricks to ingest, process, transform, and analyze data from multiple sources using a modern Lakehouse architecture.
